@@ -1,0 +1,6 @@
+module Pods_Relia_ReliaTests {
+  umbrella header "Pods-Relia-ReliaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

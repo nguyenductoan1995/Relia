@@ -1,0 +1,6 @@
+module Pods_Relia {
+  umbrella header "Pods-Relia-umbrella.h"
+
+  export *
+  module * { export * }
+}
